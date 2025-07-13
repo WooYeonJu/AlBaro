@@ -44,7 +44,7 @@
 
 ### Frontend
 - React 18.3.1
-- TypeScript
+- JavaScript
 - HTML
 - Zustand
 - React Query
